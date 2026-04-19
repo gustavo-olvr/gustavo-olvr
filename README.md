@@ -19,22 +19,10 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-olvr&show_icons=true&theme=radical)
-
----
-
-## 🧠 Tecnologias mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-olvr&layout=compact&theme=radical)
-
----
-
 ## 📫 Contato
 
 - 📧 Email: gustavo098122@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-oliveria-dev
+- 💼 LinkedIn: https://www.linkedin.com/in/gustavo-oliveria-dev  
 
 ---
 

@@ -38,9 +38,8 @@ while (gustavo.aprendendoSempre) {
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/REST%20APIs-444444?style=for-the-badge" alt="APIs REST" />
-  <img src="https://img.shields.io/badge/JWT-333333?style=for-the-badge" alt="JWT" />
+
 </p>
 
 ### Frontend
